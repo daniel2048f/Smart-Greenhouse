@@ -4,7 +4,8 @@ Este proyecto implementa un sistema de monitoreo y control para un **invernadero
 
 ## 📷 Vista General
 
-![Imagen de WhatsApp 2025-03-23 a las 23 23 48_4d2c2ad3](https://github.com/user-attachments/assets/d55d8e07-ecd2-43e9-88f3-3877b799ef78)
+![Imagen de WhatsApp 2025-03-23 a las 23 25 48_ea556ca0](https://github.com/user-attachments/assets/9bd81dd9-58f4-4873-a975-eb84c2ad1d2a)
+
 
 El sistema mide y controla:
 
